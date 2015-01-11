@@ -1,0 +1,10 @@
+*/bin/*
+*/obj/*
+*.suo
+*.dll
+*.orig
+*.sln.DotSettings.user
+!*SQLite.Interop.dll
+.nuget/*
+packages/*
+!packages/repositories.config
